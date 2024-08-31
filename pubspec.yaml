@@ -9,7 +9,7 @@ dependencies:
     sdk: flutter
   sqflite: ^2.0.0+3
   path_provider: ^2.0.11
-  fluent_ui: ^3.12.1
+  fluent_ui: ^4.9.1
 
   cupertino_icons: ^1.0.8
 dev_dependencies:
